@@ -13,7 +13,7 @@ The extension includes a simple toggle switch in the popup that allows users to 
 - Compatible with Chrome and Microsoft Edge  
 
 ## Usage
-1. Install the extension in Developer Mode  
+1. Install the extension in your browser
 2. Open YouTube and play any video  
 3. Switch tabs — the video pauses automatically  
 4. Return to the tab — the video resumes  
